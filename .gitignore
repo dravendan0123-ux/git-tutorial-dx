@@ -1,0 +1,7 @@
+db.sql
+password.txt
+*.log
+
+node_modules
+
+!important.log
