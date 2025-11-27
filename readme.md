@@ -7,3 +7,7 @@ The best ways are :
 - Repeat
 
 Thank you!
+
+
+# Summary 
+It's a nice repo
